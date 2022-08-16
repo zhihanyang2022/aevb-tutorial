@@ -20,7 +20,7 @@ This repo contains minimal PyTorch implementation of these models. Pre-trained m
 
 ## Visualizations
 
-(All plots below are created using the notebooks in this repo.)
+(All plots below are created using the notebooks in this repo. You can likely get better quality generations if you train longer.)
 
 Factor analysis
 
@@ -32,7 +32,7 @@ Variational Auto-Encoder
 
 Conditional VAE
 
-
+<img src="03_cvae/mnist_gens_conditional_param.png">
 
 Gaussian Mixture VAE by Rui Shu (clusters ordered manually in the plot)
 
