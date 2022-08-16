@@ -38,3 +38,4 @@ Gaussian Mixture VAE by Rui Shu
 
 Variational RNN
 
+<img src="mnist_evolve_animate_subplots.gif">
