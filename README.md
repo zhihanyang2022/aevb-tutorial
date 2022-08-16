@@ -22,11 +22,7 @@ This repo contains minimal PyTorch implementation of these models. Pre-trained m
 
 Factor analysis
 
-<object data="https://github.com/zhihanyang2022/aevb-tutorial/blob/main/01_factor_analysis/fa_learning_curve.pdf" type="application/pdf"">
-    <embed src="https://github.com/zhihanyang2022/aevb-tutorial/blob/main/01_factor_analysis/fa_learning_curve.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="https://github.com/zhihanyang2022/aevb-tutorial/blob/main/01_factor_analysis/fa_learning_curve.pdf" type="application/pdf""></object>
 
 Variational Auto-Encoder
 
