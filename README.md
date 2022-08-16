@@ -22,19 +22,19 @@ This repo contains minimal PyTorch implementation of these models. Pre-trained m
 
 Factor analysis
 
-<embed src="01_factor_analysis/fa_learning_curve.pdf" type="application/pdf">
+<img src="01_factor_analysis/fa_learning_curve.png">
 
 Variational Auto-Encoder
 
-
+<img src="02_vae/vae_mnist_gens_param.png">
 
 Conditional VAE
 
 
 
-Gaussian Mixture VAE by Rui Shu
+Gaussian Mixture VAE by Rui Shu (clusters ordered manually in the plot)
 
-
+<img src="04_gmvae/mnist_gens_conditional_param.png">
 
 Variational RNN
 
