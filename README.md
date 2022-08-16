@@ -5,7 +5,7 @@ TODO: link to paper
 
 TODO: bibtex of paper
 
-In the tutorial, we motivate the Auto-encoding Variational Bayes (AEVB) algorithm from the classic Expectation Maximization (EM) algorithm. In particular, we derive from scratch the AEVB training procedure for the following models:
+In the tutorial, we motivate the Auto-encoding Variational Bayes (AEVB) algorithm from the classic Expectation Maximization (EM) algorithm, and then derive from scratch the AEVB training procedure for the following models:
 
 - Factor Analysis
 - [Variational Auto-Encoder (VAE)](https://arxiv.org/pdf/1312.6114.pdf)
