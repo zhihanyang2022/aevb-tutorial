@@ -20,7 +20,7 @@ This repo contains minimal PyTorch implementation of these models. Pre-trained m
 
 ## Visualizations
 
-(All plots below are created using the notebooks in this repo. You can likely get better quality generations if you train longer.)
+(All plots below are created using the notebooks in this repo. It's very likely to get better quality generations if you train longer; I didn't train the models to convergence to save time.)
 
 Factor analysis
 
