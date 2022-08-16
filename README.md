@@ -1,4 +1,7 @@
 # AEVB Tutorial
+
+## Intro
+
 PyTorch codebase for paper Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial
 
 TODO: link to paper
@@ -13,4 +16,25 @@ In the tutorial, we motivate the Auto-encoding Variational Bayes (AEVB) algorith
 - [Gaussian Mixture VAE by Rui Shu](http://ruishu.io/2016/12/25/gmvae/)
 - [Variational RNN](https://papers.nips.cc/paper/2015/file/b618c3210e934362ac261db280128c22-Paper.pdf)
 
-This repo contains minimal PyTorch implementation of these models. Pre-trained models are included.
+This repo contains minimal PyTorch implementation of these models. Pre-trained models are included. To run the notebooks, create a conda environment, install the required packages, and you should be ready.
+
+## Visualizations
+
+Factor analysis
+
+<img src="https://github.com/zhihanyang2022/aevb-tutorial/blob/main/01_factor_analysis/fa_learning_curve.pdf">
+
+Variational Auto-Encoder
+
+
+
+Conditional VAE
+
+
+
+Gaussian Mixture VAE by Rui Shu
+
+
+
+Variational RNN
+
