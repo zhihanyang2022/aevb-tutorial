@@ -16,7 +16,7 @@ In the tutorial, we motivate the Auto-encoding Variational Bayes (AEVB) algorith
 - [Gaussian Mixture VAE by Rui Shu](http://ruishu.io/2016/12/25/gmvae/)
 - [Variational RNN](https://papers.nips.cc/paper/2015/file/b618c3210e934362ac261db280128c22-Paper.pdf)
 
-This repo contains minimal PyTorch implementation of these models. Pre-trained models are included for all models except Factor Analysis (which takes less than 10 seconds to train) so it's easy to play around. All other models also take less than 30 minutes to train from scratch. To run the notebooks, create a conda environment, install the required packages, and you should be ready.
+This repo contains minimal PyTorch implementation of these models. Pre-trained models are included for all models except Factor Analysis (which takes less than 10 seconds to train) so it's easy to play around. All other models also take less than 30 minutes to train from scratch. To run the notebooks, create a conda environment, install the required packages with `pip install -r requirements.txt`, and you should be ready.
 
 ## Visualizations
 
