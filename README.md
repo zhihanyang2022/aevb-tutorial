@@ -4,9 +4,25 @@
 
 PyTorch codebase for paper Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial.
 
-TODO: link to paper
-
-TODO: bibtex of paper
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2208.07818,
+  doi = {10.48550/ARXIV.2208.07818},
+  
+  url = {https://arxiv.org/abs/2208.07818},
+  
+  author = {Zhi-Han, Yang},
+  
+  keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
 
 In the tutorial, we motivate the Auto-encoding Variational Bayes (AEVB) algorithm from the classic Expectation Maximization (EM) algorithm, and then derive from scratch the AEVB training procedure for the following models:
 
