@@ -2,7 +2,7 @@
 
 ## Intro
 
-PyTorch codebase for paper Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial.
+PyTorch codebase for paper [Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial](https://arxiv.org/abs/2208.07818).
 
 ```bibtex
 @misc{zhihan2022aevb,
