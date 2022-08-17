@@ -5,22 +5,12 @@
 PyTorch codebase for paper Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial.
 
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2208.07818,
-  doi = {10.48550/ARXIV.2208.07818},
-  
+@misc{zhihan2022aevb,
   url = {https://arxiv.org/abs/2208.07818},
-  
   author = {Zhi-Han, Yang},
-  
-  keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial},
-  
   publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+  year = {2022}
 }
 ```
 
